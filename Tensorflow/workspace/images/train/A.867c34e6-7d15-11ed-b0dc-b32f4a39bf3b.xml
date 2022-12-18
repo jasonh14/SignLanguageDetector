@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A</folder>
+	<filename>A.867c34e6-7d15-11ed-b0dc-b32f4a39bf3b.jpg</filename>
+	<path>C:\Users\Jason\OneDrive - Bina Nusantara University\Binus University\2022-2023\3rd Semester\Artificial Intelligence\AoL\insign-jupyter\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\A\A.867c34e6-7d15-11ed-b0dc-b32f4a39bf3b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>300</ymin>
+			<xmax>550</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
